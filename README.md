@@ -1,4 +1,3 @@
-# TDPage
-Technical Documentation page made with HTML and CSS. 
+Technical Doc Page
 
-FCC Project number 4.
+Made to get familiarized with CSS and HTML
